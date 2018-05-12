@@ -1,0 +1,33 @@
+_repo: My-Memoirs_37390
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37390-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: Steinheil, Marguerite
+    aliases:
+    - Japy, Marguerite
+    - Scarlett, Marguerite, Lady Abinger
+    - Steinheil, Marguerite Japy
+    - Abinger, Marguerite Scarlett, Lady
+    - Japy, Jeanne Marguerite
+    birthdate: 1869
+    deathdate: 1954
+    gutenberg_agent_id: '38818'
+    url: http://www.gutenberg.org/2009/agents/38818
+    wikipedia: http://en.wikipedia.org/wiki/Marguerite_Steinheil
+description: ''
+gutenberg_issued: '2011-09-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37390'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Steinheil, Marguerite, 1869-1954'
+title: My Memoirs
+url: http://www.gutenberg.org/ebooks/37390
